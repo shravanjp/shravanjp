@@ -3,10 +3,10 @@
 - 🔭 I’m currently working on Flexboard, an Realtime drawing board
 - 🌱 I’m currently learning nodejs
 - 👯 I’m looking to collaborate on any webproject
-- 📫 How to reach me: 
 
+<!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shravanjp&theme=dark)](https://git.io/streak-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=shravanjp&show_icons=true&theme=ADD_THEME_HERE" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=shravanjp&show_icons=true&theme=ADD_THEME_HERE" width="400"> -->
 
 
 <!--

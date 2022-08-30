@@ -9,8 +9,6 @@
 
 <div align="center"><img src="https://gpvc.arturio.dev/shravanjp"/></div>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=45&duration=3000&center=true&width=1000&height=70&lines=My+Contributions;Languages+And+Tools;Github+Stats)](https://git.io/typing-svg)
-
 
 <h3 align="left">My Stats</h3>
 
@@ -22,7 +20,9 @@
  
 
 <h3 align="left">Streaks</h3>
-<p><a href="https://github.com/shravanjp"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Shravan J Poojary&theme=dark&fire=DD2727" alt="shravanjp" /></a></p>
+
+
+<p><a href="https://github.com/shravanjp"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Shravan J Poojary&theme=dark&fire=DD2727"  alt="shravanjp" /></a></p>
 
 
 <!--

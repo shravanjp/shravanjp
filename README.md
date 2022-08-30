@@ -1,12 +1,19 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Flexboard, an Realtime drawing board
+- 🔭 I’m currently working on Xcart, Shoppping application
 - 🌱 I’m currently learning nodejs
 - 👯 I’m looking to collaborate on any webproject
-
-![Profile views](https://gpvc.arturio.dev/shravanjp)
+- 📫 How to reach me: [LinkdedIn](https://www.linkedin.com/in/shravan-j-poojary/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shravanjp&show_icons=true&count_private=true)
+
+<div align="center"><img src="https://gpvc.arturio.dev/shravanjp"/></div>
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=45&duration=3000&center=true&width=1000&height=70&lines=My+Contributions;Languages+And+Tools;Github+Stats)](https://git.io/typing-svg)
+
+### Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varshithvhegde&layout=compact)](https://github.com/varshithvhegde)
 
 
 

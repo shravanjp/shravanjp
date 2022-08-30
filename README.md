@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning nodejs
 - 👯 I’m looking to collaborate on any webproject
 - 📫 How to reach me: [LinkdedIn](https://www.linkedin.com/in/shravan-j-poojary/)
-- 💬 One more way to reach me:) shravanjp8910@gmail.com
+- 💬 One more way to reach me:-) shravanjp8910@gmail.com
 
 <div align="center"><img src="https://gpvc.arturio.dev/shravanjp"/></div>
 

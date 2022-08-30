@@ -11,13 +11,13 @@
 <h3 align="left">My Stats</h3>
 
 
-[![Shravan J Poojary's GitHub stats](https://github-readme-stats.vercel.app/api?username=shravanjp&show_icons=true&theme=radical&private=true)](https://github.com/shravanjp)
+[![Shravan J Poojary's GitHub stats](https://github-readme-stats.vercel.app/api?username=shravanjp&show_icons=true&theme=radical&private=true)](https://github.com/shravanjp) <a href="https://github.com/shravanjp"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shravanjp&theme=dark&fire=DD2727&private=true"  alt="shravanjp" /></a>
  
 
-<h3 align="left">Streaks</h3>
+<!-- <h3 align="left">Streaks</h3> -->
 
 
-<p><a href="https://github.com/shravanjp"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shravanjp&theme=dark&fire=DD2727&private=true"  alt="shravanjp" /></a></p>
+<!-- <a href="https://github.com/shravanjp"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shravanjp&theme=dark&fire=DD2727&private=true"  alt="shravanjp" /></a> -->
 
 
 <!--

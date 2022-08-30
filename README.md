@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Shravan J Poojary! 
 
-- 🔭 I’m currently working on Xcart, Shoppping application
+- 🔭 I’m currently working on Xcart, Ecommerce application
 - 🌱 I’m currently learning nodejs
 - 👯 I’m looking to collaborate on any webproject
 - 📫 How to reach me: [LinkdedIn](https://www.linkedin.com/in/shravan-j-poojary/)

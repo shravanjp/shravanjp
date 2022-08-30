@@ -11,10 +11,18 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=45&duration=3000&center=true&width=1000&height=70&lines=My+Contributions;Languages+And+Tools;Github+Stats)](https://git.io/typing-svg)
 
-### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varshithvhegde&layout=compact)](https://github.com/varshithvhegde)
+<h3 align="left">My Stats</h3>
 
+
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shravanjp&layout=compact)](https://github.com/shravanjp)
+
+
+[![Shravan J Poojary's GitHub stats](https://github-readme-stats.vercel.app/api?username=shravanjp&show_icons=true&theme=radical)](https://github.com/shravanjp)
+ 
+
+<h3 align="left">Streaks</h3>
+<p><a href="https://github.com/shravanjp"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Shravan J Poojary&theme=dark&fire=DD2727" alt="shravanjp" /></a></p>
 
 
 <!--

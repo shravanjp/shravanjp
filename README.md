@@ -10,8 +10,8 @@
 
 <table>
  <tr>
-  <td text-align="center">Stats</td>
-   <td text-align="center">Streaks</td>
+  <td style="text-align:center">Stats</td>
+   <td style="text-align:center">Streaks</td>
  </tr>
  
   <tr>

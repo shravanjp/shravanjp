@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Xcart, Shoppping application
 - 🌱 I’m currently learning nodejs
 - 👯 I’m looking to collaborate on any webproject
-- 📫 How to reach me: [LinkdedIn](https://www.linkedin.com/in/shravan-j-poojary/)
+- 📫 How to reach me: [LinkdedIn](https://www.linkedin.com/in/shravan-j-poojary/) || [Email](shravanjp8910@gmail.com)
 
 <div align="center"><img src="https://gpvc.arturio.dev/shravanjp"/></div>
 

@@ -15,11 +15,11 @@
  </tr>
  
   <tr>
-  <td><img src="https://github-readme-stats.vercel.app/api?username=shravanjp&show_icons=true&theme=radical&private=true"></td>
-   <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shravanjp&theme=dark&fire=DD2727&private=true"  alt="shravanjp" /></td>
+  <td><a href="https://github.com/shravanjp"><img src="https://github-readme-stats.vercel.app/api?username=shravanjp&show_icons=true&theme=radical&private=true"></a></td>
+   <td><a href="https://github.com/shravanjp"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shravanjp&theme=dark&fire=DD2727&private=true"  alt="shravanjp" /></a></td>
  </tr>
  
-<\table>
+</table>
 
 <!-- [![Shravan J Poojary's GitHub stats](https://github-readme-stats.vercel.app/api?username=shravanjp&show_icons=true&theme=radical&private=true)](https://github.com/shravanjp) <a href="https://github.com/shravanjp"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shravanjp&theme=dark&fire=DD2727&private=true"  alt="shravanjp" /></a>
  

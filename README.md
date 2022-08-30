@@ -4,6 +4,12 @@
 - 🌱 I’m currently learning nodejs
 - 👯 I’m looking to collaborate on any webproject
 
+![Profile views](https://gpvc.arturio.dev/shravanjp)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shravanjp&show_icons=true&count_private=true)
+
+
+
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shravanjp&theme=dark)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=shravanjp&show_icons=true&theme=ADD_THEME_HERE" width="400"> -->

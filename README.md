@@ -8,12 +8,22 @@
 <div align="center"><img src="https://gpvc.arturio.dev/shravanjp"/></div>
 
 
-<h3 align="left">My Stats</h3>
-
-
-[![Shravan J Poojary's GitHub stats](https://github-readme-stats.vercel.app/api?username=shravanjp&show_icons=true&theme=radical&private=true)](https://github.com/shravanjp) <a href="https://github.com/shravanjp"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shravanjp&theme=dark&fire=DD2727&private=true"  alt="shravanjp" /></a>
+<table>
+ <tr>
+  <td>Stats</td>
+   <td>Streaks</td>
+ </tr>
  
+  <tr>
+  <td><img src="https://github-readme-stats.vercel.app/api?username=shravanjp&show_icons=true&theme=radical&private=true"></td>
+   <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shravanjp&theme=dark&fire=DD2727&private=true"  alt="shravanjp" /></td>
+ </tr>
+ 
+<\table>
 
+<!-- [![Shravan J Poojary's GitHub stats](https://github-readme-stats.vercel.app/api?username=shravanjp&show_icons=true&theme=radical&private=true)](https://github.com/shravanjp) <a href="https://github.com/shravanjp"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shravanjp&theme=dark&fire=DD2727&private=true"  alt="shravanjp" /></a>
+ 
+ -->
 <!-- <h3 align="left">Streaks</h3> -->
 
 

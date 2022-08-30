@@ -5,8 +5,6 @@
 - 👯 I’m looking to collaborate on any webproject
 - 📫 How to reach me: [LinkdedIn](https://www.linkedin.com/in/shravan-j-poojary/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shravanjp&show_icons=true&count_private=true)
-
 <div align="center"><img src="https://gpvc.arturio.dev/shravanjp"/></div>
 
 

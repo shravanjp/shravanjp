@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Shravan J Poojary! 
 
-- 🔭 I’m currently working on Xcart, Ecommerce application
-- 🌱 I’m currently learning nodejs
+- 🔭 I’m currently working on Xcart, an Ecommerce application
+- 🌱 I’m currently learning node.js and express.js
 - 👯 I’m looking to collaborate on any webproject
 - 📫 How to reach me: [LinkdedIn](https://www.linkedin.com/in/shravan-j-poojary/)
 - 💬 One more way to reach me:-) shravanjp8910@gmail.com
